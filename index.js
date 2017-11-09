@@ -1,4 +1,5 @@
-function add(1, 80) {
-var add = a + b
-console.log(add)
+function add(a, b) {
+var a = 1;
+var b = 80;
+return add();
 }
