@@ -1,4 +1,4 @@
-function add(1, 5) {
-  a + b = c;
-  return add(c);
+function add(a, b) {
+  1 + 5 = c;
+  return c;
 }
