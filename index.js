@@ -1,4 +1,6 @@
 function add(a, b) {
-  1 + 5 = c;
+  var a = 1;
+  var b = 5;
+  var c = a + b;
   return c;
 }
