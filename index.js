@@ -16,6 +16,7 @@ return a + 1;
 function dec(a) {
   return a - 1;
 }
-function makeInt(parseInt(a)) {
+function makeInt(a) {
+  var a = parseInt(a)
   return a;
 }
